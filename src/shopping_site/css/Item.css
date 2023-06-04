@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 40px;
+}
+
+.item-left {
+    display: flex;
+}
+
+.item-right {
+    display: flex;
+    flex-direction: column;
+}
